@@ -14,8 +14,11 @@ Welcome to the WebScraper repository! This project showcases an efficient and Py
    ```
    git clone https://github.com/bopith/WebScraper.git
    ```
-2. pip install pandas requests beautifulsoup4
-3. Open the Jupyter notebook `Web Scraper Notebook.ipynb` to explore the step-by-step process of web scraping and data extraction.
+2. Install necessary libraries:
+   ```
+   pip install pandas requests beautifulsoup4
+   ```
+4. Open the Jupyter notebook `Web Scraper Notebook.ipynb` to explore the step-by-step process of web scraping and data extraction.
 
 ## Contributions
 
